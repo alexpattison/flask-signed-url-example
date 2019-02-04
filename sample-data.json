@@ -1,6 +1,6 @@
 [
   {
     "externalId": "01",
-    "imageUrl": "http://localhost:5000?key=01.jpg"
+    "imageUrl": "http://localhost:5000?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidWNrZXQiOiJsYWJlbGJveC1leGFtcGxlLXByb3h5Iiwia2V5IjoiMDEuanBnIn0.tE1xfPwSMrkz10LrRD7uobGh_-6tj7I1GWXLUzv8iY0"
   }
 ]
