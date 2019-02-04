@@ -14,4 +14,4 @@ def pull_url():
     decoded = jwt.decode(encoded, secret, algorithms=['HS256'])
     generated_url = sign.generate_presigned_url(decoded)
     print(generated_url)
-    return redirect(generated_url)
+    return 'Hello World'
