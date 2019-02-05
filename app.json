@@ -1,8 +1,5 @@
 {
   "name": "Labelbox proxy",
   "description": "A proxy service for generating presigned urls",
-  "repository": "https://github.com/AlexPattison/flask-signed-url-example",
-  "scripts": {
-    "postdeploy": "flask run"
-  }
+  "repository": "https://github.com/AlexPattison/flask-signed-url-example"
 }
