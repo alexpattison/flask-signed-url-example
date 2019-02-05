@@ -1,6 +1,10 @@
 [
   {
     "externalId": "01",
-    "imageUrl": "http://localhost:5000?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidWNrZXQiOiJsYWJlbGJveC1leGFtcGxlLXByb3h5Iiwia2V5IjoiMDEuanBnIn0.tE1xfPwSMrkz10LrRD7uobGh_-6tj7I1GWXLUzv8iY0"
+    "imageUrl": "https://flask-signed-url-example.herokuapp.com/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJidWNrZXQiOiJsYWJlbGJveC1leGFtcGxlLXByb3h5Iiwia2V5IjoiMDEuanBnIn0.tE1xfPwSMrkz10LrRD7uobGh_-6tj7I1GWXLUzv8iY0"
+  },
+  {
+    "externalId": "02",
+    "imageUrl": "https://flask-signed-url-example.herokuapp.com/"
   }
 ]
